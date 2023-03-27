@@ -1,16 +1,23 @@
 # weclean_home_cleaning_ui_in_flutter_app
 
-A new Flutter project.
+#### Github Link : https://github.com/dudecoderr/weclean_home_cleaning_ui_in_flutter_app.git
 
-## Getting Started
+                               
+# Changelog
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Note: _**last updated january 2023 configured project to latest flutter version 3.7.8**_
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+<img src="" width="200%">
+</p>
+
+**Packages used:**
+
+ - flutter_screenutil: ^5.6.0
+ - flutter_swiper_view: ^1.1.8
+ - get: ^4.6.5
+ - simple_animations: ^4.0.1
+ - supercharged: ^2.1.1
+ - responsive_framework: ^0.2.0
